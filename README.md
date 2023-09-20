@@ -24,7 +24,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 - 🌱 I’m currently learning **ReactJs, InertiaJs, SASS, Asp.Net, Docker, Kubernetes, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **IT projects**
 - 📫 How to reach me: nelsondada10@gmail.com..
-- ⚡ Fun fact: I love play chess and think about simple ict architectures .
+- ⚡ Fun fact: I love playing chess and thinking about simple back-end system architectures.
 
 #### Github Stats
 
