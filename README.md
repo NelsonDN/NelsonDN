@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
 
-I'm a freelance web and mobile developer. I spend most of my time coding passionate projects or writing scientifics paper.
+I'm a freelance Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
 
 :mailbox: Reach me out!
 
