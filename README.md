@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
 
-I'm Dada Nelson a freelance web and mobile developer. I spend most of my time coding outstanding projects or writing scientifics paper.
+I'm a freelance web and mobile developer. I spend most of my time coding passionate projects or writing scientifics paper.
 
 :mailbox: Reach me out!
 
@@ -17,15 +17,14 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 
 <!-- TODO: Add last video link -->
-
-### I design an code fullstack web architecture
+<!-- I design an code fullstack web architecture -->
+### About me
 
 - 🔭 I’m currently working on **Akapi Okapi Platforms**
 - 🌱 I’m currently learning **ReactJs, InertiaJs, SASS, Asp.Net, Docker, Kubernetes, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **IT projects**
-- 📫 How to reach me: nelsondada10@gmail.com.
-- 😄 Pronouns: CitoyenX, NelsonDN, DN-Dev, nelsondada.
-- ⚡ Fun fact: I play chess and think about simple ict architectures .
+- 📫 How to reach me: nelsondada10@gmail.com..
+- ⚡ Fun fact: I love play chess and think about simple ict architectures .
 
 #### Github Stats
 
@@ -59,6 +58,8 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/aws/aws.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -71,7 +72,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/xamarin/xamarin.png" />
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/aws/aws.png" />
+
 <br />
 <br />
 
@@ -79,8 +80,6 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing)
 - :email: nelsondada10@gmail.com
 
-
-#### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)
 
