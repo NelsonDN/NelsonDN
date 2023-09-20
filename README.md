@@ -82,7 +82,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.676296960)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)
 
 <details>
 <summary>
