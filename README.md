@@ -36,7 +36,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <a href="https://twitter.com/citoyenX1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ninja_frontend" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nelson-dada-137389250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-dada-137389250/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.youtube.com/@citoyenx1470/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@citoyenx1470/" height="30" width="40" /></a>
-<a href="https://medium.com/@tenanteuyannmarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tenanteuyannmarc" height="30" width="40" /></a>
+<a href="https://medium.com/@nelsondada10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nelsondada10" height="30" width="40" /></a>
 </p>
 
 
