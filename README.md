@@ -2,11 +2,11 @@
 
 🚀 Check out my New Portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
 
-I'm Dada Nelson but you can call me DN dev. I spend most of my time coding outstanding projects or writing scientifics paper.
+I'm Dada Nelson a freelance web and mobile developer. I spend most of my time coding outstanding projects or writing scientifics paper.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@CitoyenX1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/citoyenX1)](https://twitter.com/citoyenX1) [![Mail Badge](https://img.shields.io/badge/-CitoyenX-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@citoyenx1470) [![Linkedin Badge](https://img.shields.io/badge/-NelsonDN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-dada-137389250/)  [![Mail Badge](https://img.shields.io/badge/-nelsondada-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nelsondada10@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@CitoyenX1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/citoyenX1)](https://twitter.com/citoyenX1) [![Linkedin Badge](https://img.shields.io/badge/-NelsonDN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-dada-137389250/)  [![Mail Badge](https://img.shields.io/badge/-nelsondada-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nelsondada10@gmail.com)
 
 <!-- ### 1.1. CoderOne Newsletter
 Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
@@ -18,18 +18,16 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 <!-- TODO: Add last video link -->
 
-### I design an code web fullstack
+### I design an code fullstack web architecture
 
-- 🔭 I’m currently working on @Akapi Okapi Platforms
-- 🌱 I’m currently learning **ReactJs, InertiaJs, SASS, Asp.Net, Docker, Kubernetes, TensorFlow, Keras, **
+- 🔭 I’m currently working on **Akapi Okapi Platforms**
+- 🌱 I’m currently learning **ReactJs, InertiaJs, SASS, Asp.Net, Docker, Kubernetes, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **IT projects**
 - 📫 How to reach me: nelsondada10@gmail.com.
 - 😄 Pronouns: CitoyenX, NelsonDN, DN-Dev, nelsondada.
 - ⚡ Fun fact: I play chess and think about simple ict architectures .
 
 #### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonDN&layout=compact&theme=dark)](https://github.com/NelsonDN/github-readme-stats)
 
 ![Nelson Dada's github stats](https://github-readme-stats.vercel.app/api?username=NelsonDN&count_private=true&theme=tokyonight&hide=contribs,prs)
 
