@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
 
-I'm a freelance Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
+I'm a Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
 
 :mailbox: Reach me out!
 
@@ -20,15 +20,15 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <!-- I design an code fullstack web architecture -->
 ### About me
 
-- 🔭 I’m currently working on **Akapi Okapi Platforms**
+- 🔭 I’m currently working on side projects Oubuntu
 - 🌱 I’m currently learning **ReactJs, InertiaJs, SASS, Asp.Net, Docker, Kubernetes, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **IT projects**
 - 📫 How to reach me : nelsondada10@gmail.com..
 - ⚡ Fun fact : I love playing chess and thinking about simple back-end system architectures.
 
-#### Github Stats
+<!-- #### Github Stats
 
-![Nelson Dada's github stats](https://github-readme-stats.vercel.app/api?username=NelsonDN&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Nelson Dada's github stats](https://github-readme-stats.vercel.app/api?username=NelsonDN&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
