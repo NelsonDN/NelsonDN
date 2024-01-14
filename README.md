@@ -1,6 +1,6 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello">, I'm Dada Nelson
 
-🚀 Check out my New Portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
+🚀 Check out my test portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
 
 I'm a Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
 
