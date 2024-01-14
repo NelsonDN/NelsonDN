@@ -81,7 +81,8 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 - :email: nelsondada10@gmail.com
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)
+<!--
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)-->
 
 <details>
 <summary>
