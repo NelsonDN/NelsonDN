@@ -1,7 +1,9 @@
 ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello">, I'm Dada Nelson
 
+<!-- 
 🚀 Check out my test portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
-
+ -->
+ 
 I'm a Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
 
 :mailbox: Reach me out!
@@ -30,6 +32,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 ![Nelson Dada's github stats](https://github-readme-stats.vercel.app/api?username=NelsonDN&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/citoyenX1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ninja_frontend" height="30" width="40" /></a>
@@ -37,7 +40,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <a href="https://instagram.com/https://www.youtube.com/@citoyenx1470/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@citoyenx1470/" height="30" width="40" /></a>
 <a href="https://medium.com/@nelsondada10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nelsondada10" height="30" width="40" /></a>
 </p>
-
+-->
 
 ### Languages and Tools : 
 
@@ -76,14 +79,20 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 <br />
 
+<!--
 #### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing)
+- :email: nelsondada10@gmail.com
+-->
+
+
+### Contact Me 
 - :email: nelsondada10@gmail.com
 
 
 <!--
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)-->
-
+<!--
 <details>
 <summary>
   More stuff about me
@@ -94,4 +103,4 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 Just Keep Faith!
 
 </details>
-
+-->
