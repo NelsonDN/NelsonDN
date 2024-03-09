@@ -42,6 +42,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 </p>
 -->
 
+<!--
 ### Languages and Tools : 
 
 
@@ -74,7 +75,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/vue/vue.png" />
 
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/xamarin/xamarin.png" />
-
+-->
 
 <br />
 <br />
