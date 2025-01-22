@@ -80,11 +80,11 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 
 
-<!--
+
 #### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1lFLZgrV1YJrn-20l0pQCMBTFcjvXYoi-/view?usp=sharing)
 - :email: nelsondada10@gmail.com
--->
+
 
 
 ### Contact Me 
